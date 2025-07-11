@@ -8,6 +8,13 @@
       "when": 1752011700407,
       "tag": "0000_sloppy_betty_ross",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752160487038,
+      "tag": "0001_tan_maverick",
+      "breakpoints": true
     }
   ]
 }
