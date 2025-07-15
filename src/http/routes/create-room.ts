@@ -1,8 +1,8 @@
 import type { FastifyPluginCallbackZod } from 'fastify-type-provider-zod';
 import { z } from 'zod/v4';
-import { schema } from '../../db/schema/index.ts';
 import { db } from '../../db/connection.ts';
-export const createRoomsRoute: FastifyPluginCallbackZod = (app) => {
+import { schema } from '../../db/schema/index.ts';
+export const createRoomRoute: FastifyPluginCallbackZod = (app) => {
   app.post(
     '/rooms',
     {
