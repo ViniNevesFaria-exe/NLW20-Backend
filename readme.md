@@ -125,10 +125,6 @@ A API estará disponível em `http://localhost:3333` (porta definida no `.env`).
 4. Envie para o branch remoto: `git push origin feature/nova-rota`
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 > Desenvolvido durante a **Next Level Week** da **Rocketseat**. 🔥
